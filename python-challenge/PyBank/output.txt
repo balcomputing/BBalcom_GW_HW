@@ -1,0 +1,22 @@
+Financial Analysis
+------------------
+86
+38382578
+446309.0465116279
+Date             Feb-2012
+Profit/Losses     1170593
+Name: 25, dtype: object
+Date             Sep-2013
+Profit/Losses    -1196225
+Name: 44, dtype: object
+Financial Analysis
+------------------
+86
+38382578
+446309.0465116279
+Date             Feb-2012
+Profit/Losses     1170593
+Name: 25, dtype: object
+Date             Sep-2013
+Profit/Losses    -1196225
+Name: 44, dtype: object
